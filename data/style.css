@@ -12,7 +12,7 @@ body {
 }
 
 .sidebar {
-  margin-left:30rem;
+  margin-left:10rem;
   height:34rem;
   width:12rem;
   padding:15px;
@@ -31,7 +31,7 @@ body {
 
 .mainbar {
   top:9.8rem;
-  left:49rem;
+  left:29rem;
   position:absolute;
 }
 
@@ -43,7 +43,7 @@ body {
 }
 
 .offline-center {
-  margin-left: 45rem;
+  margin-left: 25rem;
 }
 
 /* Text In General */
