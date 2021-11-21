@@ -1,0 +1,60 @@
+/* Styleing For The Holy Pill */
+html,
+body {
+  font: normal 14px/100% "Andale Mono", AndaleMono, monospace !important;
+  background-color:#06152e;
+  padding: 23px;
+}
+
+::selection {
+    background: #4984e6; /* WebKit/Blink Browsers */
+    color: fff;
+}
+
+.sidebar {
+  margin-left:30rem;
+  height:34rem;
+  width:12rem;
+  padding:15px;
+  background-color:#040912;
+}
+
+.sidebutton {
+  width:11.9rem;
+  padding:10px;
+  font-size:19px;
+  color:#bdc9de;
+  background-color:transparent;
+  border:none;
+  
+}
+
+.mainbar {
+  top:9.8rem;
+  left:49rem;
+  position:absolute;
+}
+
+.mainbar-iframe {
+  height:56rem;
+  width:70rem;
+  background-color:#040912;
+  border:none;
+}
+
+.offline-center {
+  margin-left: 45rem;
+}
+
+/* Text In General */
+a,
+p
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #bdc9de;
+}
